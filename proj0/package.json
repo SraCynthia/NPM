@@ -1,0 +1,18 @@
+{
+  "name": "projeto1",
+  "version": "1.0.0",
+  "description": "Este é o primeiro projeto do curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cynthia",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "debug": "^4.4.0"
+  }
+}
