@@ -1,0 +1,17 @@
+{
+  "name": "projetocalc",
+  "version": "1.6.0",
+  "description": "Módulo para cálculos simples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js",
+    "prepublishshOnly": "npm run test"
+  },
+  "keywords": [
+    "calc",
+    "sum",
+    "multiplication"
+  ],
+  "author": "Cynthia",
+  "license": "MIT"
+}
